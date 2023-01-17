@@ -1,0 +1,13 @@
+service : {
+  blobToText: (blob) -> (opt text);
+  greet: (text) -> (text);
+  test: () -> ();
+  test1: () -> (bool);
+  test2: () -> (bool);
+  test3: () -> (bool);
+  test4: () -> (bool);
+  test5: () -> ();
+  test6: () -> ();
+  test7: () -> ();
+  textToBlob: (text) -> (blob);
+}
